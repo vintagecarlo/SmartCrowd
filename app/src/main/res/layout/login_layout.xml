@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00796a">
+    <TextView
+        android:text="SmartCrowd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textColor="#fff"
+        android:fontFamily="Roboto-thin"
+        android:textAlignment="center"
+        android:layout_marginTop="120dp"
+        android:gravity="center"
+        android:id="@+id/textView3" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Email address"
+        android:fontFamily="roboto"
+        android:ems="10"
+        android:background="#fff"
+        android:textColor="#a3a3a3"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:id="@+id/editText" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="password"
+        android:fontFamily="roboto"
+        android:background="#fff"
+        android:textColor="#a3a3a3"
+        android:ems="10"
+        android:padding="10dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:id="@+id/editText3" />
+    <Button
+        android:text="LogIn"
+        android:background="#ff8961"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:id="@+id/button" />
+
+    <TextView
+        android:text="Create new SmartCrowd Account"
+        android:textStyle="italic"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/textView4" />
+</LinearLayout>

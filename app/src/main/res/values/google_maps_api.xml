@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+   TODO: Before you run your application, you need a Google Maps API key.
+
+   To get one, follow this link, follow the directions and press "Create" at the end:
+
+   https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A5:6C:74:03:FE:25:E7:6E:F1:FE:10:91:91:F6:87:4A:3B:65:16:2B%3Bcom.smartcrowd.patch.mapa
+
+   You can also add your credentials to an existing key, using this line:
+   A5:6C:74:03:FE:25:E7:6E:F1:FE:10:91:91:F6:87:4A:3B:65:16:2B;com.smartcrowd.patch.mapa
+
+   Alternatively, follow the directions here:
+   https://developers.google.com/maps/documentation/android/start#get-key
+
+   Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+   string in this file.
+   -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCsXhbEi1CZ_xTpU_lq8Q5fZiY2Oe4EmwI</string>
+</resources>

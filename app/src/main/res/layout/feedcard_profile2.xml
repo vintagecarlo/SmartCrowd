@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_collapseParallaxMultiplier="0.0">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/status11"
+                    android:layout_weight="0.9"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/idhidden11"
+                    android:visibility="invisible"/>
+                <TextView
+                    android:id="@+id/textViewOptions"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="&#8942;"
+                    android:gravity="center"
+                    android:textAppearance="?android:textAppearanceMedium"
+                    android:layout_weight=".1"/>
+
+
+            </LinearLayout>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.5dp"
+                android:background="#cac9c9"
+                android:layout_marginBottom="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.volley.toolbox.NetworkImageView
+                    android:layout_width="50dp"
+                    android:id="@+id/person_photo11"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@color/cardview_dark_background"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_weight="0.6"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.5"
+                        android:text="GWAPO KO"
+                        android:id="@+id/person_name11"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_weight="0.5"
+                        android:layout_gravity="center_vertical"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+                        <RatingBar
+                            android:layout_width="93dp"
+                            android:layout_height="match_parent"
+                            android:id="@+id/person_rate11"
+                            android:gravity="center_vertical"
+                            style="?attr/ratingBarStyleSmall"
+                            android:paddingLeft="10dp"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/person_rate111"
+                            android:visibility="invisible"
+                            />
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <TextView
+                android:id="@+id/person_post_title11"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:paddingBottom="5dp"
+                android:text="TITLE HERE"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/person_post_content11"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="7dp"
+                android:text="Lorem Ipsum dolor sit tae Lorem ipsum dolor "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/person_postphoto11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="5dp"
+                android:paddingBottom="7dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+                    <TextView
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center"
+                        android:background="@android:drawable/ic_menu_mylocation" />
+                    <TextView
+                        android:id="@+id/person_post_location11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Location"
+                        android:paddingLeft="3dp"
+                        android:paddingRight="5dp"
+                        android:gravity="center_vertical"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tags:"
+                        android:layout_weight="3.2"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tags"
+                        android:id="@+id/person_tag11"
+                        android:layout_weight="1"
+                        />
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/da7ae61eb8a0eab80db5dc84657c5eab80528063/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46ec10d3157e4e75a03f0f0ca7207396266f150a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/151dc636b62a7dd9aca1b8a709786a3131cd92d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3686cf49284a8431956e79f7d691998c787d6006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/5e5f95ec5c1f3366b2eac9cd611c751b3f8e23a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d11497ed29a39513d9b495fe84c1f4664b6f17e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/5b6ece18d53113da71158242f0e3117528dd8823/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26ff97cf52baeaa6f2363d5182975e6712a97955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/0ebada2fbafb3f250988264867b7df063561e1b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a8572d613380c33a716adecea96352ef9a07d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/ea2f2331660c6dd559db2160199ec08408630dc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e9f3f00dc45ba792e3f3f92d2ad701c160887fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/538dded0bfb7d596cf2b29c3b2a6313f1740bd4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54a871dd6f1802348e195b6a5fbd8fe8afd9d96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/3165eaeff7aa6e4b04bd02a19929256debbc2eea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b7b04de85a41855630cd69c68e83c44bd3a32ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/68e80fd8e69e3fe8d660b1ecc41cd535589e62d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59f3cef8fb4778a62b5c23a26f716735cfe4c0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/af15dc39e5c4514706ab65357bb4a15c72c76c91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c87125dcd86667b6ac76f22945ee26a00e26ebac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/da7cc41ec1308128dc9105b1fe183bb1f9df07c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7637d43e65c38169f5241b397c81c7f37664cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/b00965e0e8df46d5f036e119df9a7ad6743b34d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea5fc36ccea41feb63097dddc955acea20b18f63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/9d8b6dbc96b4a03d32175333d4da4c28109d5288/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9a5d645af83f69ceb4bc922ec2b18f6fe36f031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/383c99c6cf1f5a2c5cacaff95e353564f3964aee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a32ef04b4acfc534011b5b54f1a54ad8a0068130/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/35ffef89a7d4d15a58a222094493f74cea13bf07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86b543a8d02e7f0cae7ada7670b1a81c8e33d59e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/9b95a0d66a0ab52d1437b8ded37267e51bf43d49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1caa44425b0bca922b98102e1c78c7fd9b8f742f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/0c21308b0d9d6efac876d93c5a0d4b1ef6e3a3d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c65ca9f07d510f98bea4dc4fa1dd5fa5d667134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/93c50706e5c747195cc1294b3d68308668cdd0b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37b99620bc837dba8ba25bb4991652d92e87a1fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/cebf82690d23da23d1e4c6ae08dfe67498a41d24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d36c3d0f660af98327e051657b35157b4c831d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/afefc239ae8e1a40703f7c12da28c30d511a217e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93828ded3af71846193efdef8454b4d7118c2d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/fbb35481e9df4dfd075ae829079975cb457600a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3de6ae2cef0e4345b6b1e67295ea5b290f8ec2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/2c67eee38a71743cd98589a86ce94a714776e660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4fd75fd02b3b5483fe1fcc71682b1e3ae04176d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/1e55a65e96177a83c1f30323067c12fe4d8f55cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f1fff06e8fa7a2ff5a00a7cbd131d333cc999bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/e8ab1f91341e9f3fecd7d550c7b8bfa26e72c793/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3237a3e7ad690ee77236cfe72ab7df676de936b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/30bf8495a271f1b9066cf1ddad7272f7622a54d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_173f2ff2ddcabf183ca9dfa98b384b2f75687a6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/4356900737e80035a9710c40b0bcba2dbabe53c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_520c2362e6ba836816870d2f86c41c732907bec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/06cb8c4ec089b0ad9c982f21f7d3988afe0a9d81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e45035aac99cd57adc7387957d8b6f2f3e4bc07e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/094bac15184cf7b1c779c4ee4be4c1ee191ec904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82f287ba6cbb076b4f762ee7094e5b424c4b1b42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/fcd4a1d94081bdf8f0999d2d5f44bea23f10426e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2508b325c382f291300f19785a6641fb95b002ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/c93b8f23f93298cd9f7336fd12e6dff0bd3ef6ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59d56d167d99db79cfeaf9987a9f2c61248a18f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/95e5af1c0d7d46c0f2bc330e757bac32ef1f0c20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ea897db1c388aaa26bffd70cb4388c08fe796e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/9e1169e703d410dbfaf258609e946f4cb6bfe35b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b0dc73fa81fc13b3eeb4687678a608d4dbd6121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/6ddf30a15b0e3617f92108762496ab669827f253/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1962fe67dc167180b46005e41bbafe5bd1d96f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/79580426ed6a5e11a727344080ecddc680c49d1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd3ee2bafb1fc93ebdf2f9b3b42da1097ecea0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/ca60a38487c8d9d3622e8e4c3ef4466bc0fabc14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a1ae1134eac90a27b82b2094e4333ccf4e3a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/d1226615ba47382ebb5a910ffb869ae3cc0e0637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0718ef9cd93b04cdffe68b389b85b0ffad94736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/3b2cf389d8d051cc8ad0f40edbf8fa9a1f8220f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dccf16990ec15c1750c9e1551929ada5a0d96c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/7d217eeacecb4b3502ac3ac26c37b497fb287f5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_392d95df0ef85dc0e7a715f1ebd910c6fb926b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/811945e3ae77c799d519672ee67f27ff64c3930f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_033162ac5ab179120c7d8038eba136957a990ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/b18f4661ac7d423f994bc667b38ca08df1109774/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee2512b70869608dfa295c3869da7cda55f283b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/933534dbb402598a0b3c6c116dbf321e9cef1aea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78193de3b499befddc07f6a1707ea1e7df76eb6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/1512ff592f23362799672374848c3dad4b6c8c58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15c8c687b87ed9cd0322fd49a3fc7ff0717e445e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_dc908ed4a967fc9e3f6b55399647560cf56421bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/db0ced9be5e0e7d746002cf01b4f795cf693c7dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97c5d202629c71f4b7e76cc893d6d9cb88932070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/a6d4e19dcd8666f43b62f978025c6943d534c3fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d305a10fc3b4609cfc71173f83522118250886dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/f43f2a638fcddc1642a9082714fffce5ddc5cf94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfbd73da271314748363a494292e434b0b0900b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/c0f5bc89afdd4739e8ed92cd5865660417442142/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fee6dfb4e314cb2d11edc19fa4ffd23afcb94f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/890116242ea487aa0f9cd4ea98e2d84cebc8b473/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d843b7ee15df97adb09c8d57dfaf8e9f34f4ccd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/9341ddba74ae39a51a5a6fcf0610c96e1b1f1072/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d9ad7e7655c5b85987e148a9e3ee344a4c2a1b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/7e6e034d78f41b6ca408945e0e45c2f067862d21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c931a8a7f4748932e00691b60578949a4ead49a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/7d4d572e13b2b87db072daee37a5b4df923f567a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b8eaa91bc8eac2c4f5e67bcde4ad7e0cbb17320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/30693ffee69be0a0de9b34c55e4d2a6fd6ce4693/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_395066bf84076d1d4183a96551aead0cb2d8f9ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/5d63fd8e83df09984441eae4a3ba25c532af84b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_292df3659df7d709de42d36b520266d9dd8b6c63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/218a649468096785f34975695072dc1e3c421edb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09ffc642864f72354ebd7ff67546abc0799d86e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/4cd47eed74c8401cde44975473f577372793539e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8493022285e7700a67bdb3ea9f3861ff8199ffec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/25ab7516bc372b068665017c5e776b74977e35ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_480463d056a40744d34487ceb1f59d55fe32489b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72a08a5d46b3374ff158e0ff5e56745bfde9249d">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b8947520044d6a2361c63fc54ed7d6392c8b0a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/7b1e41a5c98a3cf6cf05fee240ab319dfa1b1acb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9105d843c1aea4b429241a05d0d4a7dca70afe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/ce97b1413132577d0890f5641c6c78c942f955ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cc62ac471a1d98ff07c3ea7553e7cc213c5f8e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/6db4c1f0c66f37e4ce1ff05a9d374601ec72a636/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cd4638aac17b6b42bfb074190dd35cb25329a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/3631e7118eff3360e773f0a7ac6e780c99612003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f13fea0a12e5da3bafc1a11460d5fd65702754ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/afefc239ae8e1a40703f7c12da28c30d511a217e/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a4aec778f72cf21adc67f5c63b8467864b5ceef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/20dea35bf38df56f0d4ae13e046ffd23ae854a63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9abf19c3109657e120664b40d1ea086f69ade41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/81b677c14c28f58e1c2159e86f9fa0b7be3c4451/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6447f5fef3a5ade34b16149831d448a321016be9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45b1035bae8e15cdd48a5e7cb2f1ac0192667fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/783c5b58443d06d36ab612fef22c3edfc22d31a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e60a4df9412276c2ec3b70fcd068d36ec3a29d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/7e77a3ab41c1d05ebc00551c0daa23b797b7f112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f64811eb902ead5789c6ef4a9c34ea4180696c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/ed821e4c12aca9e6087db01cb5ba0ebb38a13eca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec452bd6b43b92269cf55b4995810eebae6aa38b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/286567fd2db676b2d2b0e0fb7119aec5eda6c239/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d709ef238d4648fd9ef9388d17bf8e3b2f24d06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patrique/.android/build-cache/57a4ddd591373bec31d5c3c4500467b41544f3ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/patrique/Downloads/Smart_Crowd/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10e9289ae74e0e4e850740bc4426260c5503cb17/classes.dex" />
+    </item>
+
+</items>
